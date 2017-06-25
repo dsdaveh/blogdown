@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curious Curation</title>
+    <link>/</link>
+    <description>Recent content on Curious Curation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Musing and collections of observations and tutorials on data science and everything it touches (i.e. everything).</description>
+    </item>
+    
+    <item>
+      <title>The world&#39;s smartest data scientists are try to rent me my own home</title>
+      <link>/2017/06/24/the-worlds-smartest-data-scientists-are-try-to-rent-me-my-own-home/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/24/the-worlds-smartest-data-scientists-are-try-to-rent-me-my-own-home/</guid>
+      <description>I share a vacation home with a friend, and we help defray the costs by renting it out on AirBnB. Lately I’ve noticed that a lot of web sites, for example the one below that surfaced while I was buying some replacement funiture,serve up an ad of my own AirBnB listing to me (I assume the rest of America does not see my listing multiple times a day).
+Checkout click bait from Walmart Labs</description>
+    </item>
+    
+  </channel>
+</rss>
